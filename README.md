@@ -9,4 +9,4 @@ How to run:
 2) Modify the temperature etc, and prompts according to your liking.
 3) Run UI.py
 
-Keep note that the program does lag a little when the audio button is clicked (in GUI) due to advancements in aforementioned libraries and the LLM itself. Try to converse as much as possible on text.
+Keep note that the program does lag a little when the audio button is clicked (in GUI) due to advancements in aforementioned libraries and the LLM itself. Try to converse on text as much as possible.
