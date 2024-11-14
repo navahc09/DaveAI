@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/87d48a3b-b595-4eb3-930d-fe0fe7530016)# DaveAI
+# DaveAI
 An AI-powered voice/text assistant that can open apps/websites/files/folders on your PC, and also intelligently answer your queries about anything really. 
 
 Structure of the project:
