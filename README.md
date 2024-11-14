@@ -1,4 +1,4 @@
-# DaveAI
+![image](https://github.com/user-attachments/assets/87d48a3b-b595-4eb3-930d-fe0fe7530016)# DaveAI
 An AI-powered voice/text assistant that can open apps/websites/files/folders on your PC, and also intelligently answer your queries about anything really. 
 
 Structure of the project:
@@ -10,3 +10,9 @@ How to run:
 3) Run UI.py
 
 Keep note that the program does lag a little when the audio button is clicked (in GUI) due to advancements in aforementioned libraries and the LLM itself. Try to converse on text as much as possible.
+
+Edit: Some sample images for reference:
+![image](https://github.com/user-attachments/assets/9ed40c56-0ac8-454a-92e9-0d846ef831fb)
+![image](https://github.com/user-attachments/assets/d101a775-3f8c-40f3-b2fb-adc1ae5eb58c)
+![image](https://github.com/user-attachments/assets/a5280b9a-bf59-4fe3-8e05-707eb5525b8b)
+
