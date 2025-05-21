@@ -5,7 +5,9 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow)](https://www.python.org/)
 [![Gemini](https://img.shields.io/badge/Gemini-1.0_Pro-FF5F15)](https://ai.google.dev/)
 
-![App Screenshot](https://github.com/user-attachments/assets/9ed40c56-0ac8-454a-92e9-0d846ef831fb)
+![image](https://github.com/user-attachments/assets/9ed40c56-0ac8-454a-92e9-0d846ef831fb)
+![image](https://github.com/user-attachments/assets/d101a775-3f8c-40f3-b2fb-adc1ae5eb58c)
+![image](https://github.com/user-attachments/assets/a5280b9a-bf59-4fe3-8e05-707eb5525b8b)
 *Sample interaction with DaveAI*
 
 ## Features ✨
